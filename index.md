@@ -34,4 +34,8 @@ The 130mm rides on a Losmandy GM811G:
 
 ![Losmandy GM811G](./photos/GM811G.jpeg)
 
-A Losmandy [HD tripod](http://store.losmandy.com/fhd-ma) supports the GM811G, and the combination is readily portable.
+A Losmandy [HD tripod](http://store.losmandy.com/fhd-ma) supports the GM811G, and the scope, mount, and tripod are reasonably portable.
+
+## Power
+
+Field power for both the 250 and the 130 is provided by a Jackery [Explorer 1000](https://www.jackery.com/products/explorer-1000-portable-power-station).
