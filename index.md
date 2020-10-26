@@ -2,7 +2,7 @@
 
 ## Site
 
-The observatory foundation is under construction and is expected to be at least partially operable in Spring 2021
+The observatory foundation is under construction and is expected to be at least partially operable in Spring 2021:
 
 ![Excavation](./photos/ExcavationUnderSmokySkies.jpeg)
 
@@ -10,7 +10,7 @@ The foundation will secure and support an Aphelion (previously branded as Galact
 
 ![Clamshell Dome](./photos/ClamshellDome.jpeg)
 
-The dome is shown with [the author](../) inside. It will remain stored on bricks and a pallet until the foundation is complete.
+The dome is shown with [the author](../) inside. It will remain stored on cinder blocks and a pallet until the foundation is complete.
 
 ## Instrument
 
@@ -32,6 +32,6 @@ Students gain experience using a Stellarvue 130mm f/7 triplet apochromat refract
 
 The 130mm rides on a Losmandy GM811G:
 
-![Losmandy GM811G](./photos/GM811G.jpg)
+![Losmandy GM811G](./photos/GM811G.jpeg)
 
-The Stellarvue 130mm and the Losmandy GM811G are set up on a Losmandy HD tripod and the combination is readily portable.
+A Losmandy [HD tripod](http://store.losmandy.com/fhd-ma) supports the GM811G, and the combination is readily portable.
