@@ -15,7 +15,7 @@ Excavation for a foundation is underway and the observatory is expected to be at
 
 ![Excavation](./photos/ExcavationUnderSmokySkies.jpeg)
 
-The foundation will secure and support the Aphelion [7 ft observatory dome](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado:
+The foundation will secure and support the Aphelion (formerly Galactica) [7 ft observatory dome](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado:
 
 ![Clamshell Dome](./photos/ClamshellDome.jpeg)
 
@@ -35,17 +35,17 @@ A Software Bisque [pier](https://www.bisque.com/product/mx-pier/) will be set in
 
 ## Portable Instrument
 
-Students gain experience using a Stellarvue SVA130T f/7 triplet apochromat refractor (a predecessor of the [Stellarvue SVX130T](https://www.stellarvue.com/svx130t/)):
+Students will gain experience using a Stellarvue SVA130T f/7 triplet apochromat refractor:
 
 ![Stellarvue SV130T](./photos/SVA130EDT.png)
 
-The SVA130T is a predecessor of the Stellarvue [SVX130T](https://www.stellarvue.com/svx130t/)). For scientific and astrophotography uses, the SVA130T is paired with a Stellarvue [SFFRR.72 Reducer/Flattener](https://www.cameraconcepts.com/stellarvue-stellarvue-sffr72-130-25-48-reducer-fla.html), resulting in a broad f/5 effective focal length.
+The SVA130T is a predecessor of the Stellarvue [SVX130T](https://www.stellarvue.com/svx130t/)). For scientific and astrophotography uses, the SVA130T is paired with a Stellarvue [SFFRR.72 Reducer/Flattener](https://www.cameraconcepts.com/stellarvue-stellarvue-sffr72-130-25-48-reducer-fla.html), resulting in an f/5 effective focal ratio.
 
 The SVA130T rides on a Losmandy GM811G:
 
 ![Losmandy GM811G](./photos/GM811G.jpeg)
 
-A Losmandy [HD tripod](http://store.losmandy.com/fhd-ma) supports the GM811G, and the scope, mount, and tripod are reasonably portable.
+A Losmandy [HD tripod](http://store.losmandy.com/fhd-ma) supports the GM811G, and the scope, mount, and tripod are reasonably portable. The SVA130T can be taken to exceptional nearby sites such as the White Mountain Research Center [Barcroft Field Station](https://www.wmrc.edu/facilities/bar/default.html).
 
 ## Power
 
