@@ -12,9 +12,9 @@ The foundation will secure and support an Aphelion (previously branded as Galact
 
 The dome is shown with [the author](../) inside. It will remain stored on cinder blocks and a pallet until the foundation is complete.
 
-## Instrument
+## Primary Instrument
 
-The dome was chosen to protect a CFF 250mm f/8 Ritchey-Chr&eacute;tien reflector:
+The 7' diameter dome is just large enough to protect a CFF 250mm f/8 Ritchey-Chr&eacute;tien reflector:
 
 ![CFF RC250 F/8](./photos/250mm-1308-1200x900.jpg)
 
