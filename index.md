@@ -6,15 +6,15 @@ The observatory foundation is under construction and the observatory is expected
 
 ![Excavation](./photos/ExcavationUnderSmokySkies.jpeg)
 
-The foundation will secure and support an Aphelion (previously branded as Galactica) 7' clamshell dome:
+The foundation will secure and support an Aphelion [7 ft observatory dome](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado:
 
 ![Clamshell Dome](./photos/ClamshellDome.jpeg)
 
-The dome is shown with [the author](../) inside. It will remain stored on cinder blocks and a pallet until the foundation is complete.
+The dome is pictured with [Brian Hill](../), the new Deep Springs Natural Science Chair, standing inside. It will remain stored on cinder blocks and a pallet until the foundation is complete.
 
 ## Primary Instrument
 
-The 7' diameter dome is just large enough to protect a CFF 250mm f/8 Ritchey-Chr&eacute;tien reflector:
+The dome will protect a CFF 250mm f/8 Ritchey-Chr&eacute;tien reflector:
 
 ![CFF RC250 F/8](./photos/250mm-1308-1200x900.jpg)
 
