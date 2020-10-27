@@ -2,7 +2,7 @@
 
 ## Site
 
-The observatory foundation is under construction and is expected to be at least partially operable in Spring 2021:
+The observatory foundation is under construction and the observatory is expected to be at least partially operable in Spring 2021:
 
 ![Excavation](./photos/ExcavationUnderSmokySkies.jpeg)
 
