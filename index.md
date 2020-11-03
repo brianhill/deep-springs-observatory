@@ -17,7 +17,7 @@ Excavation for a foundation is underway and the observatory is expected to be at
 
 The foundation will secure and support an Aphelion (formerly Galactica) [7 ft observatory dome](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado:
 
-![Clamshell Dome](./photos/ClamshellDome-900x1200.jpeg)
+![Clamshell Dome](./photos/ClamshellDome.jpeg)
 
 The dome is pictured with [the author](../) standing inside. It will remain stored on cinder blocks and a pallet until the foundation is complete.
 
