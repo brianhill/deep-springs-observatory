@@ -35,7 +35,7 @@ Students will gain experience using a Stellarvue SVA130T f/7 triplet apochromat 
 
 ![Stellarvue SV130T](./photos/SVA130EDT.png)
 
-The SVA130T is the predecessor of the Stellarvue [SVX130T](https://www.stellarvue.com/svx130t/)). For scientific and astrophotography uses, the SVA130T is paired with a Stellarvue [SFFRR.72 Reducer/Flattener](./photos/SFFR72-130.jpg), resulting in an f/5 effective focal ratio.
+The SVA130T is the predecessor of the Stellarvue [SVX130T](https://www.stellarvue.com/svx130t/). For scientific and astrophotography uses, the SVA130T is paired with a Stellarvue [SFFRR.72 Reducer/Flattener](./photos/SFFR72-130.jpg), resulting in an f/5 effective focal ratio.
 
 The SVA130T rides on a Losmandy GM811G:
 
