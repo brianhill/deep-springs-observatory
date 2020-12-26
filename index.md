@@ -1,11 +1,9 @@
 # Deep Springs Observatory
 
-## Site
+## Links
 
-* Bortle scale [light pollution map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802) centered on Deep Springs
-
-## Astronomical Forecasts
-
+* Brian Hill [Home](/)
+* Astronomical [light pollution map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802) centered on Deep Springs
 * ClearDarkSky [astronomical forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) for Deep Springs Observatory
 * Astrospheric [astronomical forecast](https://www.astrospheric.com/?Latitude=37.3749&Longitude=-117.9802) for Deep Springs Observatory
 
@@ -15,11 +13,11 @@ Excavation for a foundation is underway and the observatory is expected to be at
 
 ![Excavation](./photos/ExcavationUnderSmokySkies.jpeg)
 
-The foundation will secure and support an Aphelion (formerly Galactica) [7 ft observatory dome](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado:
+The foundation will secure and support an Aphelion [7 ft clamshell dome](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado:
 
-![Clamshell Dome](./photos/ClamshellDome.jpeg)
+![Clamshell Dome](./photos/DomeBeingMoved.jpeg)
 
-The dome is pictured with [the author](../) standing inside. It will remain stored on cinder blocks and a pallet until the foundation is complete.
+Above, faculty and students in October, 2020 moving the dome to where it is presently stored and awaiting a helicopter lift to the ridge.
 
 ## Primary Instrument
 
