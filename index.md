@@ -25,11 +25,11 @@ The dome will house a [Celestron Edge HD 11](https://www.celestron.com/products/
 
 ![Celestron Edge HD 11](./photos/CelestronEdgeHD11.jpg)
 
-The Edge HD Schmidt Astrograph will be carried by a [Losmandy G11T](http://www.losmandy.com/g11gt.html):
+The Edge HD Schmidt Astrograph will be carried by a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
-![Losmandy G11T](./photos/LosmandyG11T.jpg)
+![Losmandy G11G](./photos/LosmandyG11G.jpg)
 
-### CFF 250mm Ritchey-Chr&eacute;tien and Stellarvue 130mm Apochromat
+### Other Instruments
 
 The dome is versatile enough to house other instruments. The Natural Science Chair's CFF 250mm f/8 Ritchey-Chr&eacute;tien reflector will often be put to use:
 
@@ -41,12 +41,8 @@ Additionally, students will gain experience using the Chair's relatively portabl
 
 ## Power
 
-Field power for the telescopes and their associated electronics will be provided by a Jackery [Explorer 1000](https://www.jackery.com/products/explorer-1000-portable-power-station):
-
-![Jackery Explorer 1000](./photos/JackeryExplorer1000.png)
-
-The Jackery Explorer 1000 will in turn be charged by a [Jackery SolarSaga 100W Solar Panel](https://www.jackery.com/products/solarsaga-100w-solar-panel) mounted near the dome.
+Field power for the telescopes and their associated electronics will be provided by a [Jackery Explorer 1000](https://www.jackery.com/products/explorer-1000-portable-power-station). The Jackery Explorer 1000 will in turn be charged by a [Jackery SolarSaga 100W Solar Panel](https://www.jackery.com/products/solarsaga-100w-solar-panel) mounted near the dome.
 
 ## Program
 
-When coupled with astronomical filters and modern CMOS cameras a wide variety of scientifically and pedagogically valuable projects will become possible.
+When coupled with astronomical filters and modern CMOS cameras a wide variety of scientifically and pedagogically valuable projects will be possible.
