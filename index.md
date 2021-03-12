@@ -7,7 +7,7 @@
 * ClearDarkSky [astronomical forecast](https://www.cleardarksky.com/c/DpSprObCAkey.html?1) for Deep Springs Observatory
 * Astrospheric [astronomical forecast](https://www.astrospheric.com/?Latitude=37.3749&Longitude=-117.9802) for Deep Springs Observatory
 * Dark Site Finder [light pollution map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802) centered on Deep Springs
-* [Home page](/) of Brian Hill, Natural Science Chair
+* Home page of [Brian Hill](/), Natural Science Chair
 
 ## Dome
 
