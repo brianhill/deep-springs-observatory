@@ -4,7 +4,7 @@
 
 ## Links
 
-* Collection of local forecasts on Brian Hill's [home page](../index.md#weather-forecasts)
+* Collection of local forecasts on Brian Hill's [home page](../index.html#weather-forecasts)
 * Dark Site Finder [light pollution map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802) centered on Deep Springs
 
 ## Dome
