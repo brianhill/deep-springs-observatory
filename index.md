@@ -1,7 +1,7 @@
 # Deep Springs Observatory
 
 *The construction of the Deep Springs observatory is being made possible by the enthusiasm and generosity of the Deep Springs Class of '77.*
-'
+
 ## Links
 
 * Collection of local forecasts on Brian Hill's [home page](../index.md#weather-forecasts)
