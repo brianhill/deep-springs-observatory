@@ -17,9 +17,11 @@ The foundation will secure and support an Aphelion [Observatory Dome (7 ft model
 
 ## Instrument
 
-The dome will house a [Celestron Edge HD 11](https://www.celestron.com/products/edgehd-11-optical-tube-assembly-cge-dovetail) Schmidt astrograph:
+The dome will house a [Celestron EdgeHD 11](https://www.celestron.com/products/edgehd-11-optical-tube-assembly-cge-dovetail) Schmidt astrograph:
 
-![Celestron Edge HD 11](./photos/CelestronEdgeHD11.jpg)
+![Celestron EdgeHD 11](./photos/CelestronEdgeHD11.jpg)
+
+The features of the EdgeHD are documented in Celestron's [white paper](./resources/CelestronEdgeHDWhitePaper.pdf) and [instruction manual](./resources/CelestronEdgeHDInstructionManual.pdf)
 
 The Edge HD 11 will be carried by a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
