@@ -15,13 +15,15 @@ Construction of a foundation for the dome has begun and the observatory is expec
 
 The foundation will secure and support an Aphelion [Observatory Dome (7 ft model)](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado.
 
-## Instrument
+## Optics
 
 The dome will house a [Celestron EdgeHD 11](https://www.celestron.com/products/edgehd-11-optical-tube-assembly-cge-dovetail) Schmidt astrograph:
 
 ![Celestron EdgeHD 11](./photos/CelestronEdgeHD11.jpg)
 
-The features of the EdgeHD are documented in Celestron's [white paper](./resources/CelestronEdgeHDWhitePaper.pdf) and [instruction manual](./resources/CelestronEdgeHDInstructionManual.pdf)
+The features of the EdgeHD are documented in Celestron's [white paper](./resources/CelestronEdgeHDWhitePaper.pdf) and [instruction manual](./resources/CelestronEdgeHDInstructionManual.pdf). In particular, it can be operated as a [Rowe-Ackerman Schmidt-Astrograph](./resources/RASAWhitePaper.pdf).
+
+## Mount
 
 The Edge HD 11 will be carried by a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
