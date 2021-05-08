@@ -20,4 +20,4 @@ These two instruments are carried by a Software Bisque [Paramount MYT](https://w
 
 ## Camera
 
-When coupled with an ASI 294MM Pro (with pixel pitch of 0.00232mm), the SVA130T w/ reducer has has an image scale of 0.729 arcseconds per pixel.
+When coupled with an ASI 294MM Pro (with pixel pitch of 0.00232mm), the SVA130T w/ reducer has has an image scale of 0.729 arcseconds per pixel and a field of view of 101x69 arcminutes.
