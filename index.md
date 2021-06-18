@@ -15,7 +15,11 @@ Construction of the dome was completed in June of 2021:
 
 The foundation was custom-designed to support an [Aphelion Observatory Dome (7 ft model)](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado.
 
-The dome is just large enough to house the telescope. In the fall of 2021, construction will begin for an adjacent data-taking room large enough for two people to work while the telescope is acquiring images.
+## Field Station
+
+The dome is just large enough to house a telescope. Two people can stand (one on each side) of the telescope for visual observing, but it is not large enough to allow for extended work while the telescope is taking data.
+
+In the fall of 2021, construction will begin for the adjacent field station. This is a data-taking room that will be just large enough for two people to work for hours while the telescope is acquiring images.
 
 ## Optics
 
