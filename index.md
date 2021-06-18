@@ -9,11 +9,13 @@
 
 ## Dome
 
-Construction of a foundation for the dome has begun and the observatory is expected to be at least partially operable in May of 2021:
+Construction of the dome was completed in June of 2021:
 
-![Spreading Footer Concrete](./photos/SpreadingFooterConcrete.jpeg)
+![Completed Dome](./photos/CompletedDome.jpeg)
 
-The foundation will secure and support an Aphelion [Observatory Dome (7 ft model)](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado.
+The foundation was custom-designed to support an [Aphelion Observatory Dome (7 ft model)](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado.
+
+The dome is just large enough to house the telescope. In the fall of 2021, construction will begin for an adjacent data-taking room large enough for two people to work while the telescope is acquiring images.
 
 ## Optics
 
@@ -21,7 +23,7 @@ The dome will house a [Celestron EdgeHD 11](https://www.celestron.com/products/e
 
 ![Celestron EdgeHD 11](./photos/CelestronEdgeHD11.jpg)
 
-The features of the EdgeHD are documented in Celestron's [white paper](./resources/CelestronEdgeHDWhitePaper.pdf) and [instruction manual](./resources/CelestronEdgeHDInstructionManual.pdf). In particular, it can be operated as a [Rowe-Ackerman Schmidt-Astrograph](./resources/RASAWhitePaper.pdf).
+The features of the EdgeHD are documented in Celestron's [white paper](./resources/CelestronEdgeHDWhitePaper.pdf) and [instruction manual](./resources/CelestronEdgeHDInstructionManual.pdf). As one of its capabilities, it can be operated as a [Rowe-Ackerman Schmidt-Astrograph](./resources/RASAWhitePaper.pdf).
 
 ## Mount
 
@@ -31,7 +33,7 @@ The Edge HD 11 will be carried by a [Losmandy G11G](http://www.losmandy.com/g-11
 
 ## Power
 
-Field power for the telescopes and their associated electronics will be provided by a [Jackery Explorer 1000](https://www.jackery.com/products/explorer-1000-portable-power-station). The Jackery Explorer 1000 will in turn be charged by a [Jackery SolarSaga 100W Solar Panel](https://www.jackery.com/products/solarsaga-100w-solar-panel) mounted near the dome.
+Field power for the telescopes and their associated electronics will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by a bank of four solar panels. 
 
 ## Program
 
