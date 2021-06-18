@@ -17,7 +17,7 @@ The foundation was custom-designed to support an [Aphelion Observatory Dome (7 f
 
 ## Field Station
 
-The dome is just large enough to house a telescope. Two people can stand &mdash; one on each side of the telescope &mdash; for visual observing, but for CMOS imaging, the dome is not designed for people to be inside doing extended work while the telescope is operating.
+The dome is just large enough to house a telescope. Two people can stand beside the telescope for visual observing, but for CMOS imaging, the dome is not designed for people to be inside doing extended work while the telescope is operating.
 
 In the fall of 2021, construction will begin for the adjacent field station. This is a data-taking room that will be large enough for two people to work for hours while the telescope is acquiring images.
 
@@ -31,7 +31,7 @@ The features of the EdgeHD are documented in Celestron's [white paper](./resourc
 
 ## Mount
 
-The Edge HD 11 will be carried by a [Losmandy G11G](http://www.losmandy.com/g-11.html):
+The EdgeHD 11 will be carried by a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
 ![Losmandy G11G](./photos/LosmandyG11G.jpg)
 
