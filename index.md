@@ -17,9 +17,9 @@ The foundation was custom-designed to support an [Aphelion Observatory Dome (7 f
 
 ## Field Station
 
-The dome is just large enough to house a telescope. Two people can stand &mdash; one on each side of the telescope &mdash; for visual observing, but for CMOS imaging, the dome is not large enough to allow for extended work while the telescope is taking data.
+The dome is just large enough to house a telescope. Two people can stand &mdash; one on each side of the telescope &mdash; for visual observing, but for CMOS imaging, the dome is not designed for people to be inside doing extended work while the telescope is operating.
 
-In the fall of 2021, construction will begin for the adjacent field station. This is a data-taking room that will be just large enough for two people to work for hours while the telescope is acquiring images.
+In the fall of 2021, construction will begin for the adjacent field station. This is a data-taking room that will be large enough for two people to work for hours while the telescope is acquiring images.
 
 ## Optics
 
