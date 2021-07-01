@@ -41,4 +41,4 @@ Field power for the telescopes and their associated electronics will be provided
 
 ## Program
 
-When coupled with astronomical filters and modern CMOS cameras a wide variety of scientifically and pedagogically valuable projects will be possible.
+With the clear, dark skies and high elevation at Deep springs, and using astronomical filters and modern CMOS cameras, students will be able to do a wide variety of pedagogically and scientifically valuable projects, including spectroscopy, exoplanet observation, and [astrophotography](../astronomy/index.html#astrophotography-projects).
