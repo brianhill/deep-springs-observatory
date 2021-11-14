@@ -7,19 +7,14 @@
 * Collection of local forecasts on Brian Hill's [home page](../index.html#weather-forecasts)
 * Dark Site Finder [light pollution map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802) centered on Deep Springs
 
-## Dome
+## Dome and Control Room
 
-Construction of the dome was completed in June of 2021:
+As of November, 2021 the dome is completed and the 6'x9' slab for the control room has been poured:
 
-![Completed Dome](./photos/CompletedDome.jpeg)
+![Tarping Control Room Slab](./photos/TarpingControlRoomSlab.jpeg)
 
-The foundation was custom-designed to support an [Aphelion Observatory Dome (7 ft model)](https://www.apheliondomes.com/products.html) purchased used from Antelope Hills Observatory in Bennett, Colorado.
-
-## Field Station
-
-The dome is just large enough to house a telescope. Two people can stand beside the telescope for visual observing, but for CMOS imaging, the dome is not designed for people to be inside doing extended work while the telescope is operating.
-
-In the fall of 2021, construction will begin for the adjacent field station. This is a data-taking room that will be large enough for two people to work for hours while the telescope is acquiring images.
+The dome is an [Aphelion Observatory (7 ft model)](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org) in Bennett, Colorado. The control
+room will have space for two people to work side-by-side, and a small amount of equipment storage. Conduit for USB and power cables connects the dome and the control room.
 
 ## Optics
 
