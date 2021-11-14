@@ -14,7 +14,7 @@ As of November, 2021 the dome is completed and the 6'x9' slab for the control ro
 ![Tarping Control Room Slab](./photos/TarpingControlRoomSlab.jpeg)
 
 The dome is an [Aphelion Observatory (7 ft model)](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org) in Bennett, Colorado. The control
-room will have space for two people to work side-by-side, and a small amount of equipment storage. Conduit for USB and power cables connects the dome and the control room.
+room will have space for two people to work side-by-side and a small amount of equipment storage. Conduit intended for USB and power cables connects the dome and the control room.
 
 ## Optics
 
