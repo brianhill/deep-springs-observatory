@@ -5,7 +5,7 @@
 ## Links
 
 * Collection of local forecasts on Brian Hill's [home page](../index.html#weather-forecasts)
-* Dark Site Finder [screen shot centered on Deep Springs](./resources/DarkSiteFinderDeepSprings.png) and [interactive map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802)
+* Dark Site Finder [screenshot centered on Deep Springs](./resources/DarkSiteFinderDeepSprings.png) (see also Dark Site Finder [interactive map](https://darksitefinder.com/maps/world.html#10/37.3749/-117.9802))
 
 ## Dome and Control Room
 
