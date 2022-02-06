@@ -13,7 +13,9 @@ As of February, 2022 the framing of the 6'x9' control room has begun.
 
 ![Control Room Framing Begun](./photos/ControlRoomFramingBegun.jpeg)
 
-The dome is an [Aphelion Observatory (7 ft model)](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org) in Bennett, Colorado. The control room will be an attractive space for two people to work side-by-side with a small amount of equipment storage. Conduit intended to carry USB and power cables connects the dome and the control room.
+The dome is an [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org) in Bennett, Colorado.
+
+Two short steps north of the dome, a control room will provide an attractive space for two people to take data and work. High-grade PVC conduit has been placed underground between the dome and the control room to carry data and power.
 
 ## Optics
 
@@ -39,4 +41,4 @@ Field power for the telescopes and their associated electronics will be provided
 
 ## Program
 
-With the clear, dark skies and high elevation at Deep springs, and using astronomical filters and modern CMOS cameras, students will be able to use the dome, telescope, and control room do a wide variety of pedagogically and scientifically valuable projects, including spectroscopy, exoplanet observation, and [astrophotography](../astronomy/index.html#astrophotography-projects). The first observational astronomy class will be in Term 5 (mid-March to beginning of May) of 2022.
+With the clear, dark skies and high elevation at Deep springs, and using astronomical filters and modern CMOS cameras, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically and scientifically valuable projects, including spectroscopy, exoplanet observation, and astrophotography. The first observational astronomy class will be in Term 5 (mid-March to beginning of May) of 2022.
