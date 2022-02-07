@@ -13,7 +13,7 @@ As of February, 2022 the framing of the 6'x9' control room has begun.
 
 ![Control Room Framing Begun](./photos/ControlRoomFramingBegun.jpeg)
 
-The dome is an [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org) in Bennett, Colorado.
+The dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The usable height inside has been increased to 81&frac12;&rdquo; with a 12-sided concrete riser and 24-sided sill plate.
 
 Two short steps north of the dome, a control room will provide an attractive space for two people to take data and work. High-grade PVC conduit has been placed underground between the dome and the control room to carry data and power.
 
