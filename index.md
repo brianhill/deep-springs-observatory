@@ -15,13 +15,13 @@ As of February, 2022 the framing of the 6'x9' control room has begun.
 
 The dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The usable height inside has been increased to 81&frac12;&rdquo; with a 12-sided concrete riser and 24-sided sill plate.
 
-Two short steps north of the dome, a control room will provide an attractive space for two people to take data and work. High-grade PVC conduit has been placed underground between the dome and the control room to carry data and power.
+Two short steps north of the dome, a control room will provide an attractive space for two people to take data and work.
 
-## Optics
+## Telescope and Mount
 
 Depending upon availability, the dome will house either a [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf) or a [Celestron EdgeHD 11](https://www.celestron.com/products/edgehd-11-optical-tube-assembly-cge-dovetail).
 
-Meade 10&rdquo;; OTA (optical tube assembly):
+Meade 10&rdquo; OTA (optical tube assembly):
 
 ![Meade LX200 EMC 10](./photos/MeadeLX200EMC.jpg)
 
@@ -29,15 +29,13 @@ Celestron OTA:
 
 ![Celestron EdgeHD 11](./photos/CelestronEdgeHD11.jpg)
 
-## Mount
-
 The OTA will be carried by a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
 ![Losmandy G11G](./photos/LosmandyG11G.jpg)
 
 ## Power
 
-Field power for the telescopes and their associated electronics will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by a bank of four solar panels. 
+Field power for the telescopes and their associated electronics will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by a bank of four solar panels. Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
 
 ## Program
 
