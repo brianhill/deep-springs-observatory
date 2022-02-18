@@ -19,11 +19,11 @@ Two short steps north of the dome, a control room will provide an attractive spa
 
 ## Optics
 
-Depending upon availability, the dome will house either a [Meade LX200 10](https://www.meade.com/lx200-acftm-10-f-10-ota-only.html) or a [Celestron EdgeHD 11](https://www.celestron.com/products/edgehd-11-optical-tube-assembly-cge-dovetail).
+Depending upon availability, the dome will house either a [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf) or a [Celestron EdgeHD 11](https://www.celestron.com/products/edgehd-11-optical-tube-assembly-cge-dovetail).
 
-Meade OTA (optical tube assembly):
+Meade 10&rdquo;; OTA (optical tube assembly):
 
-![Meade LX200 10](./photos/MeadeLX200.jpg)
+![Meade LX200 EMC 10](./photos/MeadeLX200EMC.jpg)
 
 Celestron OTA:
 
