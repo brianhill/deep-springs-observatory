@@ -12,7 +12,7 @@
 The control room for the observatory is on track to be usable (but not finished out) in time for the beginning of Term 5 (March 14, 2022) when the first observational astronomy course
 begins. Below is Polaris (top center) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room:
 
-![Control Room Framing Begun](./photos/UrsaMinorOverRafters.jpeg)
+![Control Room Framing Begun](./photos/UrsaMinorOverRaftersWithDome.jpeg)
 
 The rafter pitch is set to the (7, 24, 25) Pythagorean triple, more commonly known to builders as 3&frac12;:12 pitch.
 
