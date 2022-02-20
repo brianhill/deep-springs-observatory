@@ -28,7 +28,7 @@ The telescope's optical tube assembly (OTA) was de-forked and modified to ride o
 
 ![Losmandy G11G](./photos/LosmandyG11G.jpg)
 
-A [ZWO ASI 2600 MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) astronomy imaging camera that had been in use for SETI searches was donated by Space Laser Awareness.
+A [ZWO ASI2600MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) astronomy imaging camera that was briefly used for SETI searches was donated by Space Laser Awareness.
 
 Thanks to the very substantial savings afforded by these donations, there is budget to select additional equipment that will round out the instrumentation.
 
