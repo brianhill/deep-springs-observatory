@@ -10,7 +10,7 @@
 ## Dome and Control Room
 
 The control room for the observatory is on track to be usable (but not finished out) in time for the beginning of Term 5 (March 14, 2022) when the first observational astronomy course
-begins. Below is Polaris (top center) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room:
+utilizing the observatory will begin. Below is Polaris (top center) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room:
 
 ![Control Room Framing Begun](./photos/UrsaMinorOverRaftersFromDome.jpeg)
 
