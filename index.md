@@ -10,30 +10,30 @@
 ## Dome and Control Room
 
 The control room for the observatory is on track to be usable (but not finished out) in time for the beginning of Term 5 (March 14, 2022) when the first one-term observational astronomy course
-is beginning. Below is a picture of Ursa Minor over the rafters of the control room taken from a low vantage point beside the telescope:
+is beginning. Below are Polaris and Ursa Minor appearing over the rafters of the control room taken from a low vantage point just to the right of the telescope:
 
 ![Control Room Framing Begun](./photos/UrsaMinorOverRafters.jpeg)
 
-The dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The usable height inside has been increased to 81&frac12;&rdquo; by bolting the dome to an icositetragon sill plate, which is secured with 48 wedge anchors to a dodecagon concrete riser.
+The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The  height inside has been increased to 81&frac12;&rdquo; by bolting the dome to an icositetragon sill plate, which is in turn secured with 48 wedge anchors to a dodecagon concrete riser.
 
 ## Instrumentation
 
-The Saint Mary's College Geissberger Observatory has donated a surplus [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf):
+The Saint Mary's College Geissberger Observatory has donated one of their [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf) telescopes:
 
 ![Meade LX200 EMC 10](./photos/MeadeLX200EMC.jpg)
 
-The telescope's optical tube assembly (OTA) has been de-forked and upgraded to ride on a [Losmandy G11G](http://www.losmandy.com/g-11.html):
+The telescope's optical tube assembly (OTA) has been de-forked and modified to ride on a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
 ![Losmandy G11G](./photos/LosmandyG11G.jpg)
 
 A [ZWO ASI 2600 MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) astronomy imaging camera that had been in use for SETI searches has been donated by Space Laser Awareness.
 
-Thanks to the savings afforded by these donations, it will be possible to select additional equipment to round out the instrumentation.
+Thanks to the savings afforded by these donations, there will be budget to select additional equipment to round out the instrumentation.
 
 ## Power
 
-Field power for the telescopes and their associated electronics will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by two [SolarSaga 100 panels](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
+Field power for the telescope, its camera, and the computers that control them will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by two [SolarSaga 100 panels](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
 
 ## Program
 
-With the clear, dark skies and high elevation at Deep springs, and using astronomical filters and modern CMOS cameras, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically and scientifically valuable projects, including spectroscopy, exoplanet observation, and astrophotography. The first observational astronomy class will be in Term 5 (mid-March to beginning of May) of 2022.
+With the clear, dark skies and high elevation at Deep springs and a modern CMOS camera, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically and scientifically valuable projects. The first observational astronomy class will be in Term 5 (mid-March to beginning of May) of 2022.
