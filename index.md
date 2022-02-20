@@ -20,17 +20,17 @@ The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.co
 
 ## Instrumentation
 
-The Saint Mary's College Geissberger Observatory has donated one of their [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf) telescopes:
+Saint Mary's College donated one of its classic [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf) telescopes to Deep Springs College:
 
 ![Meade LX200 EMC 10](./photos/MeadeLX200EMC.jpg)
 
-The telescope's optical tube assembly (OTA) has been de-forked and modified to ride on a [Losmandy G11G](http://www.losmandy.com/g-11.html):
+The telescope's optical tube assembly (OTA) was de-forked and modified to ride on a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
 ![Losmandy G11G](./photos/LosmandyG11G.jpg)
 
-A [ZWO ASI 2600 MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) astronomy imaging camera that had been in use for SETI searches has been donated by Space Laser Awareness.
+A [ZWO ASI 2600 MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) astronomy imaging camera that had been in use for SETI searches was donated by Space Laser Awareness.
 
-Thanks to the very substantial savings afforded by these donations, there will be budget to select additional equipment to round out the instrumentation.
+Thanks to the very substantial savings afforded by these donations, there is budget to select additional equipment that will round out the instrumentation.
 
 ## Power
 
