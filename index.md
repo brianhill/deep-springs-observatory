@@ -32,7 +32,7 @@ Thanks to the savings afforded by these donations, it will be possible to select
 
 ## Power
 
-Field power for the telescopes and their associated electronics will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will each be kept charged by a [SolarSaga 100 panel](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
+Field power for the telescopes and their associated electronics will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by two [SolarSaga 100 panels](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
 
 ## Program
 
