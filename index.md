@@ -42,7 +42,7 @@ For astrophotography, a [ZWO ASI2600MC Pro](https://astronomy-imaging-camera.com
 
 The SONY IMX571 sensor in the ASI2600MC Pro has a pixel pitch of 3.76 microns and an image area of 23.5x17.5mm. With an effective focal length of 2540mm\*0.63=1600mm the image scale is 1600\*2&pi;/360/60=0.465mm/&rsquo; or 7.76 microns/&rdquo; or 0.4847 &rdquo;/pixel. With a resolution of 6248x4176 pixels the image area is 50.5x33.7&rsquo;.
 
-Thanks to the very substantial value to the observatory of the OTA and the CMOS camera, there is budget to select additional equipment that will round out both the visual and imaging capabilities.
+Thanks to the very substantial value to the observatory of the OTA, eyepiece, and CMOS camera donations, there will be budget to select additional equipment to round out both the visual and imaging capabilities.
 
 ## Program
 
