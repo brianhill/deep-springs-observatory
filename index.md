@@ -20,7 +20,7 @@ The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.co
 
 ## Power
 
-Field power for the telescope, its camera, and the computers that control them will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by two [SolarSaga 100 panels](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
+Field power for the telescope, its camera, and the computers that control them will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by two [Jackery SolarSaga 100s](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
 
 ## Instrument
 
