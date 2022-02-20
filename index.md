@@ -18,6 +18,10 @@ The rafter pitch is set to the 7-24-25 [Pythagorean triple](https://mathworld.wo
 
 The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The  usable height inside has been increased to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate, which is itself secured with 48 wedge anchors to a 12-sided concrete riser.
 
+## Power
+
+Field power for the telescope, its camera, and the computers that control them will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by two [SolarSaga 100 panels](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
+
 ## Instrument
 
 Saint Mary's College donated one of its classic [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf) telescopes to Deep Springs College:
@@ -39,10 +43,6 @@ For astrophotography, a [ZWO ASI2600MC Pro](https://astronomy-imaging-camera.com
 The SONY IMX571 sensor in the ASI2600MC Pro has a pixel pitch of 3.76 microns and an image area of 23.5x17.5mm. With an effective focal length of 2540mm\*0.63=1600mm the image scale is 1600\*2&pi;/360/60=0.465mm/&rsquo; or 7.76 microns/&rdquo; or 0.4847 &rdquo;/pixel. With a resolution of 6248x4176 pixels the image area is 50.5x33.7&rsquo;.
 
 Thanks to the very substantial value to the observatory of the OTA and the CMOS camera, there is budget to select additional equipment that will round out both the visual and imaging capabilities.
-
-## Power
-
-Field power for the telescope, its camera, and the computers that control them will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by two [SolarSaga 100 panels](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
 
 ## Program
 
