@@ -10,7 +10,7 @@
 ## Dome and Control Room
 
 The control room for the observatory is on track to be usable (but not finished out) in time for the beginning of Term 5 (March 14, 2022) when the first observational astronomy course
-begins. Below is Polaris (centered) and the rest of Ursa Minor (stretching to the right) over the rafters of the control room:
+begins. Below is Polaris (centered) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room:
 
 ![Control Room Framing Begun](./photos/UrsaMinorOverRafters.jpeg)
 
@@ -28,7 +28,7 @@ The telescope's optical tube assembly (OTA) has been de-forked and modified to r
 
 A [ZWO ASI 2600 MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) astronomy imaging camera that had been in use for SETI searches has been donated by Space Laser Awareness.
 
-Thanks to the savings afforded by these donations, there will be budget to select additional equipment to round out the instrumentation.
+Thanks to the very substantial savings afforded by these donations, there will be budget to select additional equipment to round out the instrumentation.
 
 ## Power
 
