@@ -9,33 +9,30 @@
 
 ## Dome and Control Room
 
-As of February, 2022 the framing of the 6'x9' control room has begun.
+The control room for the observatory is on track to be usable (but not finished out) in time for the beginning of Term 5 (March 14, 2022) when the first one-term observational astronomy course
+is beginning. Below is a picture of Ursa Minor over the rafters of the control room taken from a low vantage point beside the telescope:
 
-![Control Room Framing Begun](./photos/ControlRoomFramingBegun.jpeg)
+![Control Room Framing Begun](./photos/UrsaMinorOverRafters.jpeg)
 
-The dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The usable height inside has been increased to 81&frac12;&rdquo; with a 12-sided concrete riser and 24-sided sill plate.
+The dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The usable height inside has been increased to 81&frac12;&rdquo; by bolting the dome to an icositetragon sill plate, which is secured with 48 wedge anchors to a dodecagon concrete riser.
 
-Two short steps north of the dome, a control room will provide an attractive space for two people to take data and work.
+## Instrumentation
 
-## Telescope and Mount
-
-Depending upon availability, the dome will house either a [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf) or a [Celestron EdgeHD 11](https://www.celestron.com/products/edgehd-11-optical-tube-assembly-cge-dovetail).
-
-Meade 10&rdquo; OTA (optical tube assembly):
+The Saint Mary's College Geissberger Observatory has donated a surplus [Meade LX200 EMC 10&rdquo;](./resources/LX200_Classic_Manual.pdf):
 
 ![Meade LX200 EMC 10](./photos/MeadeLX200EMC.jpg)
 
-Celestron OTA:
-
-![Celestron EdgeHD 11](./photos/CelestronEdgeHD11.jpg)
-
-The OTA will be carried by a [Losmandy G11G](http://www.losmandy.com/g-11.html):
+The telescope's optical tube assembly (OTA) has been de-forked and upgraded to ride on a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
 ![Losmandy G11G](./photos/LosmandyG11G.jpg)
 
+A [ZWO ASI 2600 MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) astronomy imaging camera that had been in use for SETI searches has been donated by Space Laser Awareness.
+
+Thanks to the savings afforded by these donations, it will be possible to select additional equipment to round out the instrumentation.
+
 ## Power
 
-Field power for the telescopes and their associated electronics will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will be kept charged by a bank of four solar panels. Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
+Field power for the telescopes and their associated electronics will be provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which will each be kept charged by a [SolarSaga 100 panel](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
 
 ## Program
 
