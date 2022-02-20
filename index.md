@@ -10,13 +10,13 @@
 ## Dome and Control Room
 
 The control room for the observatory is on track to be usable (but not finished out) in time for the beginning of Term 5 (March 14, 2022) when the first observational astronomy course
-begins. Below is Polaris (centered) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room:
+begins. Below is Polaris (top center) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room:
 
 ![Control Room Framing Begun](./photos/UrsaMinorOverRafters.jpeg)
 
 The rafter pitch is set to the (7, 24, 25) Pythagorean triple, more commonly known to builders as 3&frac12;:12 pitch.
 
-The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The  height inside has been increased to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate, which is itself secured with 48 wedge anchors to a 12-sided concrete riser.
+The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The  usable height inside has been increased to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate, which is itself secured with 48 wedge anchors to a 12-sided concrete riser.
 
 ## Instrumentation
 
