@@ -9,8 +9,8 @@
 
 ## Dome and Control Room
 
-The control room for the observatory is on track to be usable (but not finished out) in time for the beginning of Term 5 (March 14, 2022) when the first one-term observational astronomy course
-is beginning. Below are Polaris and Ursa Minor appearing over the rafters of the control room taken from a low vantage point just to the right of the telescope:
+The control room for the observatory is on track to be usable (but not finished out) in time for the beginning of Term 5 (March 14, 2022) when the first observational astronomy course
+begins. Below is Polaris (centered) and the rest of Ursa Minor (stretching to the right) over the rafters of the control room:
 
 ![Control Room Framing Begun](./photos/UrsaMinorOverRafters.jpeg)
 
@@ -36,4 +36,4 @@ Field power for the telescope, its camera, and the computers that control them w
 
 ## Program
 
-With the clear, dark skies and high elevation at Deep springs and a modern CMOS camera, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically and scientifically valuable projects. The first observational astronomy class will be in Term 5 (mid-March to beginning of May) of 2022.
+With the clear, dark skies and high elevation at Deep springs and a modern CMOS camera, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically and scientifically valuable projects.
