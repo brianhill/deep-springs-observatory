@@ -34,7 +34,7 @@ The telescope's optical tube assembly (OTA) was de-forked and modified to ride o
 
 ## Visual Use
 
-For visual use, the Meade Series 4000 Super-Wide-Angle 2&rdquo; eyepiece (having an apparent field of view of 67&deg;) the telescope will take in a full 1&deg; of the sky at 63.5x power.
+For visual use, with the Meade Series 4000 Super-Wide-Angle 2&rdquo; eyepiece (having an apparent field of view of 67&deg;) the telescope will take in a full 1&deg; of the sky at 63.5x power.
 
 ## Imaging
 
