@@ -34,11 +34,11 @@ For visual use, the Meade Series 4000 Super-Wide-Angle 2&rdquo; eyepiece (having
 
 ## Imaging
 
-For astrophotography, a [ZWO ASI2600MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) astronomy imaging camera that was briefly used for SETI searches has been donated by Space Laser Awareness. It will be paired with a Celestron Reducer/Flattener creating an effective focal ratio of f/6.3.
+For astrophotography, a [ZWO ASI2600MC Pro](https://astronomy-imaging-camera.com/product/asi2600mc-pro-color) CMOS camera that was briefly used for SETI searches has been donated by Space Laser Awareness. It will be paired with a Celestron Reducer/Flattener creating an effective focal ratio of f/6.3.
 
-The SONY IMX571 sensor in the ASI2600MC Pro has a pixel pitch of 3.76 microns and an image area of 23.5x17.5mm. With an effective focal length of 2540mm\*0.63=1600mm the image scale is 1600\*2\*&pi;/360/60=0.465mm/arcminute or 7.76 microns/arcsecond or 0.4847 arcseconds/pixel. With a resolution of 6248x4176 pixels the image area is 50.5x33.7 arcminutes.
+The SONY IMX571 sensor in the ASI2600MC Pro has a pixel pitch of 3.76 microns and an image area of 23.5x17.5mm. With an effective focal length of 2540mm\*0.63=1600mm the image scale is 1600\*2&pi;/360/60=0.465mm/&rsquo; or 7.76 microns/&rdquo; or 0.4847 &rdquo;/pixel. With a resolution of 6248x4176 pixels the image area is 50.5x33.7&rsquo;.
 
-Thanks to the very substantial savings afforded by these donations, there is budget to select additional equipment that will round out both the visual and imaging capabilities.
+Thanks to the very substantial value to the observatory of the OTA and the CMOS camera, there is budget to select additional equipment that will round out both the visual and imaging capabilities.
 
 ## Power
 
