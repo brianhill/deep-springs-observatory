@@ -4,9 +4,9 @@
 
 ## Dome and Control Room
 
-The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The  usable height inside has been increased to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate on top of a 12-sided concrete riser.
+The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The height inside has been increased to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate on top of a 12-sided concrete riser.
 
-The control room for the observatory became usable (but not finished out) in time for the Term 5, 2022 [Observational Astronomy](/observational-astronomy) course. Below is Polaris (top center) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room when it was still being framed:
+The control room for the observatory became usable (but not finished out) in time for the Term 5, 2022 [Observational Astronomy](./observational-astronomy) course. Below is Polaris (top center) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room when it was still being framed:
 
 ![Control Room Framing Begun](./photos/UrsaMinorOverRaftersFromDome.jpeg)
 
