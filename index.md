@@ -4,7 +4,7 @@
 
 ## Dome and Control Room
 
-The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The usable height inside has been increased to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate on top of a [12-sided foundation](./resources/plans/index.html).
+The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossSection.gif) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The internal height inside the dome has been increased by 9&frac12;&rdquo; to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate on top of a [12-sided foundation](./resources/plans/index.html).
 
 The roof deck of the control room was completed in early April:
 
