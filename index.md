@@ -4,11 +4,13 @@
 
 ## Dome and Control Room
 
-The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The height inside has been increased to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate on top of a 12-sided concrete riser.
+The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.com/products.html) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The usable height inside has been increased to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate on top of a [12-sided foundation](./resources/plans/index.html).
 
-The control room for the observatory became usable (but not finished out) in time for the Term 5, 2022 [Observational Astronomy](../observational-astronomy) course. Below is Polaris (top center) and the rest of Ursa Minor stretching to the right over the moonlit rafters of the control room when it was still being framed:
+The roof deck of the control room was completed in early April:
 
-![Control Room Framing Begun](./photos/UrsaMinorOverRaftersFromDome.jpeg)
+![Completing the Roof Deck](./photos/CompletingRoofDeck.jpeg)
+
+The control room is already in use for the Term 5, 2022 Observational Astronomy course even as the asphalted felt and metal siding are still going on.
 
 ## Power
 
@@ -28,9 +30,10 @@ The Saint Mary's College donation included a Meade 40mm 2&rdquo; eyepiece. It ta
 
 ## Program
 
-With the clear, dark skies and high elevation at Deep springs, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically and scientifically valuable projects.
+With the clear, dark skies and high elevation at Deep springs, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
 
 ## Related Links
 
 * Dark Site Finder [screenshot centered on Deep Springs](./resources/DarkSiteFinderDeepSprings.png)
 * Collection of local forecasts on Brian Hill's [home page](../index.html#weather-forecasts)
+* Term 5, 2022 [Observational Astronomy](../observational-astronomy/index.html) course
