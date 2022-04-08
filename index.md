@@ -18,7 +18,7 @@ Field power for the equipment is provided by two [Jackery Explorer 1000s](https:
 
 ## Instrument
 
-Saint Mary's College donated one of its surplus [Meade LX200 Classic 10&rdquo;](./resources/LX200_Classic_Manual.pdf) telescopes to Deep Springs College:
+Saint Mary's College donated one of its surplus [Meade LX200 Classic 10&rdquo;](./resources/equipment/LX200_Classic_Manual.pdf) telescopes to Deep Springs College:
 
 ![Meade LX200 Classic 10](./photos/MeadeLX200EMC.jpg)
 
@@ -30,10 +30,9 @@ The Saint Mary's College donation included a Meade 40mm 2&rdquo; eyepiece. It ta
 
 ## Program
 
-With the clear, dark skies and high elevation at Deep springs, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
+With the [clear](./resources/USDrearyDays.jpeg), [dark](./resources/DarkSiteFinderDeepSprings.png) skies and high elevation at Deep springs, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
 
-## Related Links
+## Links
 
-* Dark Site Finder [screenshot centered on Deep Springs](./resources/DarkSiteFinderDeepSprings.png)
 * Collection of local forecasts on Brian Hill's [home page](../index.html#weather-forecasts)
 * Term 5, 2022 [Observational Astronomy](../observational-astronomy/index.html) course
