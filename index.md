@@ -30,7 +30,7 @@ The Saint Mary's College donation included a Meade 40mm 2&rdquo; eyepiece. It ta
 
 ## Program
 
-With the [clear](./resources/USDrearyDays.jpeg), [dark](./resources/DarkSiteFinderDeepSprings.png) skies and high elevation at Deep springs, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
+With the [clear](./resources/USDrearyDays.jpeg) and [dark](./resources/DarkSiteFinderDeepSprings.png) skies at Deep Springs, and the 5530' (1685m) elevation at the observatory, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
 
 ## Links
 
