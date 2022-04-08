@@ -8,7 +8,7 @@ The observatory's dome is the [Aphelion 7 ft Model](https://www.apheliondomes.co
 
 The roof deck of the control room was completed in early April:
 
-![Completing the Roof Deck](./photos/CompletingRoofDeck.jpeg)
+![Completing the Roof Deck](./resources/CompletingRoofDeck.jpeg)
 
 The control room is already in use for the Term 5, 2022 Observational Astronomy course even as the asphalted felt and metal siding are still going on.
 
