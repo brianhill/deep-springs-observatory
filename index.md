@@ -6,11 +6,9 @@
 
 The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossSection.gif) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The internal height inside the dome has been increased by 9&frac12;&rdquo; to 81&frac12;&rdquo; by bolting the dome to a 24-sided sill plate on top of a [12-sided foundation](./resources/plans/index.html).
 
-The roof deck of the control room was completed in early April:
-
-![Completing the Roof Deck](./resources/CompletingRoofDeck.jpeg)
-
 The control room is already in use for the Term 5, 2022 Observational Astronomy course even as the asphalted felt and metal siding are still going on.
+
+![April Sunset](./photos/AprilSunset.jpeg)
 
 ## Power
 
@@ -22,7 +20,7 @@ Saint Mary's College donated one of its surplus [Meade LX200 Classic 10&rdquo;](
 
 ![Meade LX200 Classic 10](./photos/MeadeLX200EMC.jpg)
 
-The telescope's optical tube assembly (OTA) was de-forked and modified to ride on a [Losmandy G11G](http://www.losmandy.com/g-11.html):
+The telescope's optical tube assembly (OTA) was de-forked to ride on a [Losmandy G11G](http://www.losmandy.com/g-11.html):
 
 ![Losmandy G11G](./photos/LosmandyG11G.jpg)
 
@@ -30,7 +28,7 @@ The Saint Mary's College donation included a Meade 40mm 2&rdquo; eyepiece. It ta
 
 ## Program
 
-With the [clear](./resources/USDrearyDays.jpeg) and [dark](./resources/DarkSiteFinderDeepSprings.png) skies at Deep Springs, and the 5530' (1685m) elevation at the observatory, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
+With the College's [clear](./resources/site/USDrearyDays.jpeg) and [dark](./resources/site/DarkSiteFinder.png) skies (which until a few years ago [were still rated](./resources/site/BortleClass1.png) as Bortle Class 1), and the 5530' (1685m) elevation at the observatory, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
 
 ## Links
 
