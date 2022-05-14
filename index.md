@@ -32,5 +32,5 @@ With the College's [clear](./resources/site/USDrearyDays.jpeg) and [dark](./reso
 
 ## Links
 
-* Collection of [local forecasts](../index.html#weather-forecasts) on Brian Hill's home page
+* Collection of [local forecasts](../index.html#weather-forecasts)
 * March and April 2022 [Observational Astronomy](../observational-astronomy/index.html) course
