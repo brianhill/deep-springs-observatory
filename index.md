@@ -8,7 +8,7 @@ The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossS
 
 The dome and control room are both in service as of March, 2022, even as many construction details remain to be worked on.
 
-![Corrugated Roof On](./photos/CorrugatedRoofOn.jpeg)
+![Sue Awaits Moonrise](./photos/SueAwaitsMoonrise.jpeg)
 
 ## Power
 
@@ -32,5 +32,5 @@ With the College's [clear](./resources/site/USDrearyDays.jpeg) and [dark](./reso
 
 ## Links
 
-* Collection of [local forecasts](../index.html#weather-forecasts)
+* Collection of [local forecasts](../index.html#weather-forecasts) on Brian Hill's home page
 * March and April 2022 [Observational Astronomy](../observational-astronomy/index.html) course
