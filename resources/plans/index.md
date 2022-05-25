@@ -1,6 +1,6 @@
 ## Index to Plans
 
-### Dome Foundation Plans
+### Dome Plans
 
 * [Dome Foundation Elevation](./DomeFoundationElevation.pdf)
 * [Dome Foundation Plan](./DomeFoundationPlan.pdf)
