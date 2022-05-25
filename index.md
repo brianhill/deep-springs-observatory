@@ -28,7 +28,7 @@ The Saint Mary's College donation included a Meade 40mm 2&rdquo; eyepiece. It ta
 
 ## Program
 
-With the College's [clear](./resources/site/USDrearyDays.jpeg) and [dark](./resources/site/DarkSiteFinder.png) skies (which despite the growth of Bishop [were still rated](./resources/site/BortleClass1.png) as Bortle Class 1 until 2019), and the 5530' (1685m) elevation at the observatory, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
+With the College's [clear](./resources/site/USDrearyDays.jpeg) and [dark](./resources/site/DarkSiteFinder.png) skies (which despite the growth of Bishop until recently [were still rated](./resources/site/BortleClass1.png) as Bortle Class 1), and the 5530' (1685m) elevation at the observatory, students will be able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable projects.
 
 ## Links
 
