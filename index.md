@@ -6,7 +6,7 @@
 
 The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossSection.gif) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The internal height inside the dome was increased by 9&frac12;&rdquo; to 81&frac12;&rdquo; with by putting it on a custom [12-sided foundation](./resources/plans/index.html).
 
-The dome and control room were both in service as of March, 2022, even as many construction details remain to be completed.
+The observatory went into service for the Term 5 Observational Astronomy course held in March and April of 2022, even as many construction details remained to be completed.
 
 ![Sue Awaits Moonrise](./photos/SueAwaitsMoonrise.jpeg)
 
