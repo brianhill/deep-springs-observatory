@@ -6,11 +6,10 @@
 * [Dome Foundation Plan](./DomeFoundationPlan.pdf)
 * [Dome Foundation Calculations](./DomeFoundationCalculations.pdf)
 
-	
-![Dome Foundation](../../photos/DomeFoundation.jpeg)
+<img src="../../photos/DomeFoundation.jpeg" alt="Dome Foundation" width=600 />
 
 ### Control Room Plans
 
 * [Control Room Lumber Order](./ControlRoomLumber.pdf)
 
-![Control Room Framing](../../photos/ControlRoomFraming.jpeg)
+<img src="../../photos/ControlRoomFraming.jpeg" alt="Control Room Framing" width=600 />
