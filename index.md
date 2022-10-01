@@ -18,7 +18,7 @@ Field power for the equipment is provided by two [Jackery Explorer 1000s](https:
 
 ## Instrument
 
-Saint Mary's College donated one of its surplus [Meade LX200 Classic 10&rdquo;](./resources/equipment/LX200_Classic_Manual.pdf) telescopes to Deep Springs College:
+Saint Mary's College of California donated a [Meade LX200 Classic 10&rdquo;](./resources/equipment/LX200_Classic_Manual.pdf) telescope:
 
 <img src="./photos/MeadeLX200EMC.jpg" alt="Meade LX200 Classic 10" width="70%"/>
 
@@ -26,7 +26,7 @@ The telescope's optical tube assembly (OTA) was de-forked to ride on a [Losmandy
 
 <img src="./photos/LosmandyG11G.jpg" alt="Losmandy G11G" width="50%"/>
 
-The Saint Mary's College donation included a Meade 40mm 2&rdquo; eyepiece. It takes in about 3/4&deg; of the sky at 63.5x power.
+The Saint Mary's College donation included a Meade 40mm 2&rdquo; eyepiece which takes in about 3/4&deg; of the sky at 63.5x power.
 
 ## Program
 
