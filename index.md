@@ -6,11 +6,11 @@
 
 The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossSection.gif) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The internal height inside the dome was increased by 9&frac12;&rdquo; to 81&frac12;&rdquo; by putting it on a custom [12-sided foundation](./resources/plans/index.html).
 
-The observatory went into service for the Term 5 Observational Astronomy course held in March and April of 2022, even though many details remained to be completed. Construction ended when the control room was fully sheathed in September, 2022:
+The observatory went into service for the Term 5 Observational Astronomy course held in March and April of 2022, even though many details remained to be completed. The observatory became fully operational when the control room was completely insulated and sheathed and the custom desk was installed in October of 2022.
 
-![Control Room Fully Sheathed with Dome in Foreground, September, 2022](./photos/ControlRoomFullySheathedSeptember2022.jpeg)
+![Observatory Fully Operational, October 2022](./photos/ObservatoryFullyOperationalOctober2022.jpeg)
 
-A dedication will be held when the landscape architecture (aka, moving boulders!) is completed.
+A dedication will be held when the landscape plan (aka, moving boulders!) is completed.
 
 ## Power
 
