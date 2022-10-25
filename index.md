@@ -35,4 +35,5 @@ With the College's [clear](./resources/site/USDrearyDays.jpeg) and [dark](./reso
 ## Links
 
 * Collection of [local forecasts](../index.html#weather-forecasts) on Brian Hill's home page
-* March and April 2022 [Observational Astronomy](../observational-astronomy/index.html) course
+* Term 5 2022 [Observational Astronomy](../observational-astronomy/index.html) course
+* Terms 3-5 2022-2023 [Transient Astronomy](../transient-astronomy/index.html) directed study and research
