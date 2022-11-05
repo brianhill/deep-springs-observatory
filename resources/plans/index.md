@@ -2,8 +2,8 @@
 
 ### Dome Plans
 
-* [Dome Foundation Elevation](./DomeFoundationElevation.pdf)
 * [Dome Foundation Plan](./DomeFoundationPlan.pdf)
+* [Dome Foundation Elevation](./DomeFoundationElevation.pdf)
 * [Dome Foundation Calculations](./DomeFoundationCalculations.pdf)
 * [Dome Cross-Section (from manufacturer)](./DomeCrossSection.gif)
 
@@ -14,9 +14,9 @@
 Various web resources, especially this one on [framing basics](https://theinspiringinvestment.com/diy-framing-basics/), were essential
 given that this was our first building project, as was drawing the framing in detail before attempting to construct it:
 
+* [Control Room Plan](./ControlRoomPlan.pdf)
 * [Control Room Elevations](./ControlRoomElevations.pdf)
 * [Control Room Framing](./ControlRoomFraming.pdf)
-* [Control Room Plan](./ControlRoomPlan.pdf)
 * [Control Room Framing Details](./ControlRoomFramingDetails.pdf)
 * [Control Room Desk](./ControlRoomDesk.pdf)
 
