@@ -25,7 +25,7 @@ we had an estimate of the materials needs and made the following order:
 
 * [Control Room Lumber Order](./ControlRoomLumber.pdf)
 
-The materials needs were padded by 20&percnt; to account for warped or damaged lumber
+The materials needs were padded by 20&#37; to account for warped or damaged lumber
 and for framing errors. In fact, although the lumber was green and a little warped so much that it was unusable, it was overall of high quality. Also, we made fewer-than-expected mistakes. The exception to this was that we used every rafter and did not allow enough rafter material for the rafter ladders. We had to do an additional lumber run for rafters and pressure-treated fascia, and for two sheets of furniture-grade plywood which were laminated to build the custom desk.
 
 <img src="../../photos/ControlRoomFraming.jpeg" alt="Control Room Framing" width=600 />
