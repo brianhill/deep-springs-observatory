@@ -18,7 +18,7 @@ given that this was our first building project, as was drawing the framing in de
 * [Control Room Framing](./ControlRoomFraming.pdf)
 * [Control Room Plan](./ControlRoomPlan.pdf)
 * [Control Room Framing Details](./ControlRoomFramingDetails.pdf)
-* [Control Room Desk](./ControlRoomFramingDesk.pdf)
+* [Control Room Desk](./ControlRoomDesk.pdf)
 
 Using the framing plans and details,
 we had an estimate of the materials needs and made the following order:
