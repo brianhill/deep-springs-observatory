@@ -11,12 +11,12 @@
 
 ### Control Room Plans
 
-Various web resources, especially this one on [framing basics](https://theinspiringinvestment.com/diy-framing-basics/), are essential
-if this is your first building project.
+Various web resources, especially this one on [framing basics](https://theinspiringinvestment.com/diy-framing-basics/), were essential
+given that this was our first building project, as was drawing the framing in detail before attempting to construct it:
 
 * [Control Room Elevations](./ControlRoomElevations.pdf)
-* [Control Room Plan](./ControlRoomPlan)
 * [Control Room Framing](./ControlRoomFraming.pdf)
+* [Control Room Plan](./ControlRoomPlan.pdf)
 * [Control Room Framing Details](./ControlRoomFramingDetails.pdf)
 * [Control Room Desk](./ControlRoomFramingDesk.pdf)
 
