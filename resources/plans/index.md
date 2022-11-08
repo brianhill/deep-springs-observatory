@@ -26,6 +26,6 @@ we had an estimate of the materials needs and made the following order:
 
 We had to do an additional lumber run for rafters and pressure-treated fascia, and for two sheets of furniture-grade plywood which were laminated to build the custom desk.
 
-A steady stream of good advice from Eric Brown (good friend and Texas homebuilder), and also Ken Carpenter and Gary Schley (of Ken Carpenter Construction), helped keep the project from turning into a collage of newbie mistakes.
+A steady stream of experienced advice from Eric Brown (good friend and Texas homebuilder), and also Ken Carpenter and Gary Schley (of Ken Carpenter Construction), helped keep the project from turning into a collage of newbie mistakes. Astronomers Geoff Marcy and Hans de Moor also steered our choices.
 
 <img src="../../photos/ControlRoomFraming.jpeg" alt="Control Room Framing" width=600 />
