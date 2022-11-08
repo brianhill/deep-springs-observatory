@@ -14,7 +14,7 @@
 Various web resources, especially [one on framing basics](https://theinspiringinvestment.com/diy-framing-basics/), were essential, as was drawing the framing in detail before attempting to construct it:
 
 * [Control Room Plan](./ControlRoomPlan.pdf)
-* [Control Room Elevations](./ControlRoomElevations.pdf)
+* [Control Room Elevations and Perspective](./ControlRoomElevationsAndPerspective.pdf)
 * [Control Room Framing](./ControlRoomFraming.pdf)
 * [Control Room Framing Details](./ControlRoomFramingDetails.pdf)
 * [Control Room Desk](./ControlRoomDesk.pdf)
