@@ -1,6 +1,6 @@
 # Deep Springs Observatory
 
-*The construction of the Deep Springs observatory was made possible by the enthusiasm and generosity of the Deep Springs Class of '77.*
+*Construction of the observatory was made possible by the enthusiasm and generosity of the Deep Springs Class of '77.*
 
 ![Observatory, December 2022](./photos/ObservatoryDec2022.jpeg)
 
