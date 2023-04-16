@@ -10,6 +10,8 @@ The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossS
 
 The observatory went into service for the Term 5 Observational Astronomy course held in March and April of 2022, even though much remained to be completed at that time. It became fully operational in October of 2022 when the custom desk and shelving were installed in the control room.
 
+In April of 2023, a [30" Paramount MX/MX+/MYT Permanent Pier](https://www.bisque.com/product/mx-pier/) was installed. It is on a concrete pedestal that rises 6" above the floor and extends 26" below. The pier has been drilled and tapped to carry a Losmandy mount as well as a Paramount.
+
 ## Power
 
 Field power for the equipment is provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which are kept charged by two [Jackery SolarSaga 100s](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
