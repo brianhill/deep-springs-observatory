@@ -6,7 +6,7 @@
 
 ## Dome and Control Room
 
-The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossSection.gif) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The height inside the dome was increased slightly by putting it on a custom [12-sided foundation](./resources/plans/index.html).
+The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossSection.gif) purchased used from [Antelope Hills Observatory](http://www.antelopehillsobservatory.org). The height inside the dome was increased slightly by putting it on a custom [12-sided foundation](./resources/plans/index.html). The control room is a [custom design](./resources/plans/index.html).
 
 Field power for the equipment is provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which are kept charged by two [Jackery SolarSaga 100s](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
 
