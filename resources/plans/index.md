@@ -9,6 +9,11 @@
 
 <img src="../../photos/DomeFoundation.jpeg" alt="Dome Foundation" width=600 />
 
+In the photo above, a subtle feature is a 14" Sonotube passing through the concrete floor. The concrete within the Sonotube was kept thin and free of rebar to make it easy to break out. The idea
+was to allow for easy excavation for a permanent pier. This upgrade was carried out in the first year of operation.
+
+<img src="../../photos/PermanentPier.jpeg" alt="Permanent Pier" width=600 />
+
 ### Control Room Plans
 
 Various web resources, especially [one on framing basics](https://theinspiringinvestment.com/diy-framing-basics/), were essential, as was drawing the framing in detail before attempting to construct it:
