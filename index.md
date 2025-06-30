@@ -20,11 +20,11 @@ The optical tube assembly (OTA) rides on a [Losmandy G11G](http://www.losmandy.c
 
 ## Milestones
 
-In January of 2021, the gift from Deep Springs Class of 77 was made, preparing the way for construction of the dome in that spring.
+In January of 2021, the gift from Deep Springs Class of '77 was made, preparing the way for construction of the dome in that spring.
 
 The observatory went into service for the Term 5 Observational Astronomy course held in March and April of 2022. However, much remained to be completed at that time. The observatory became operational for research in October of 2022 when the custom desk and shelving were installed in the control room.
 
-Six months later, in April of 2023, a significant upgrade from a tripod to a [30" Paramount permanent pier](https://www.bisque.com/product/mx-pier/) was made. The pier sits on a concrete pedestal that rises 6" above the floor and extends 26" below the floor into granite. The pier has been drilled and tapped so that it can support either a Losmandy G11G or a Paramount MYT. The permanent pier almost entirely eliminates the need for periodic recalibrations of the telescope's orientation.
+Six months later, in April of 2023, a significant upgrade inside the dome from a tripod to a [30" Paramount permanent pier](https://www.bisque.com/product/mx-pier/) was made. The pier sits on a concrete pedestal that rises 6" above the floor and extends 26" below the floor and touches granite. The pier was drilled and tapped with the help of Stephan Bork so that it can support either a Losmandy G11G or a Paramount MYT. Replacing the heavy-duty tripod with a permanent pier almost entirely eliminates the need for occasional recalibration of the telescope's orientation.
 
 With the College's [clear](./resources/site/USDrearyDays.jpeg) and [dark](./resources/site/DarkSiteFinder.png) skies (which despite the growth of Bishop until recently [were rated](./resources/site/BortleClass1.png) as Bortle Class 1), and the 5530' (1685m) elevation at the observatory, students are able to use the dome, telescope, and control room to do a wide variety of pedagogically- and scientifically-valuable work, including spectroscopy, observation of transient phenomena, and astrophotography projects.
 
