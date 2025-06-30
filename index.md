@@ -2,7 +2,7 @@
 
 *Construction of the observatory was made possible by the enthusiasm and generosity of the Deep Springs Class of '77.*
 
-![Observatory, December 2022](./photos/ObservatoryDec2022.jpeg)
+<img src="./photos/ObservatoryDec2022.jpeg" alt="Observatory and Control room, December, 2022" width="100%"/>
 
 ## Dome and Control Room
 
@@ -10,15 +10,13 @@ The observatory's dome is the [Aphelion 7 ft Model](./resources/plans/DomeCrossS
 
 Field power for the equipment is provided by two [Jackery Explorer 1000s](https://www.jackery.com/products/explorer-1000-portable-power-station) which are kept charged by two [Jackery SolarSaga 100s](https://www.jackery.com/products/solarsaga-100w-solar-panel). Industrial grade PVC conduit for carrying data and power is routed underground between the dome and the control room.
 
-## Instrument
+## Telescope
 
-At the beginning of 2024, the main instrument of the observatory was upgraded to a [Celestron Edge HD 11](./resources/equipment/CelestronEdgeHDWhitePaper.pdf) with a gift from Dr. J. Hugh Visser:
+At the beginning of 2024, the main instrument of the observatory was upgraded to a [Celestron Edge HD 11](./resources/equipment/CelestronEdgeHDWhitePaper.pdf) with a gift from Dr. J. Hugh Visser. Below, Hexi Jin, DS23, sets up the telescope outside the dome for easy access before a June, 2025 astronomy night:
 
-<img src="./photos/CelestronEdgeHD11.jpg" alt="Celestron Edge HD 11" width="70%"/>
+<img src="./photos/HexiJinSettingUp.jpeg" alt="Hexi sets up the Deep Springs telescope" width="80%"/>
 
-The optical tube assembly (OTA) rides on a [Losmandy G11G](http://www.losmandy.com/g-11.html):
-
-<img src="./photos/LosmandyG11G.jpg" alt="Losmandy G11G" width="50%"/>
+The optical tube assembly (OTA) rides on a [Losmandy G11G](http://www.losmandy.com/g-11.html) mount.
 
 ## Milestones
 
@@ -36,4 +34,5 @@ In January of 2024, the main instrument was upgraded and several complementary a
 
 * Collection of [local forecasts](../index.html#weather-forecasts) on Brian Hill's home page
 * Term 5 2022 [Observational Astronomy](../observational-astronomy/index.html) course
-* Terms 3-5 2022-2023 [Transient Astronomy](../transient-astronomy/index.html) directed study and research
+* Terms 3-5 2022-2023 [Transient Astronomy](../transient-astronomy/index.html) directed study and research with Luke Suess (DS 21) and Sofia Mikulasek (DS 22)
+* Terms 4-5 2024-2025 [Supernova Observation](../supernova-observation/index.html) directed study and research with Ethan Liao (DS 22) and Hexi Jin (DS 23)
